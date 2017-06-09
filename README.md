@@ -12,7 +12,7 @@ based on the translations of Robert G. Henricks, Lin Yutang, D.C. Lau,
 Ch'u Ta-Kao, Gia-Fu Feng & Jane English, Richard Wilhelm and Aleister
 Crowley.
 
-This work is not a translation, but an interpolation.  It does not
+This work is not a translation, but an interpolation. It does not
 represent the original text; the original, if there was an original, has
 been jumbled, mistranscribed and reinterpreted many times over many
 thousands of years, and is here cast into a language that is incapable
